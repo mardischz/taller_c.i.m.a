@@ -18,5 +18,5 @@ Este proyecto nace a partir de un **taller** con el objetivo de unir **tecnolog�
 
 ## 💖 Animate a crear
 
-No necesitas ser expertx ni saberlo todo.  
-Solo trae tus ganas de aprender, equivocarte y volver a intentar 🌷  
+No necesitas ser experto ni saberlo todo.  
+Solo trae tus ganas de aprender, equivocarte y volver a intentar 
