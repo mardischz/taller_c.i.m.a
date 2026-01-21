@@ -1,7 +1,7 @@
 # 🌸 taller_c.i.m.a 🌸  
 ### Aprende a crear tu propia calculadora menstrual en Python
 
-Bienvenidx a **taller_c.i.m.a**, un repositorio creado para acompañarte paso a paso en el aprendizaje de cómo programar una **calculadora menstrual usando Python**, de forma clara y accesible.
+Bienvenido a **taller_c.i.m.a**, un repositorio creado para acompañarte paso a paso en el aprendizaje de cómo programar una **calculadora menstrual usando Python**, de forma clara y accesible.
 
 Este proyecto nace a partir de un **taller** con el objetivo de unir **tecnología, educación y bienestar**, demostrando que programar también puede servir para crear herramientas útiles en la vida real.
 
